@@ -1,0 +1,5654 @@
+[
+  {
+    "user_id": "u_1",
+    "timestamp": "2026-02-07T11:25:52.172596Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_2",
+    "timestamp": "2026-02-07T11:25:52.187745Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_2",
+    "timestamp": "2026-02-07T11:25:52.187785Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_2",
+    "timestamp": "2026-02-07T11:25:52.187804Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_3",
+    "timestamp": "2026-02-07T11:25:52.201491Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_3",
+    "timestamp": "2026-02-07T11:25:52.201567Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_3",
+    "timestamp": "2026-02-07T11:25:52.201641Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_4",
+    "timestamp": "2026-02-07T11:25:52.218090Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_4",
+    "timestamp": "2026-02-07T11:25:52.218122Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_4",
+    "timestamp": "2026-02-07T11:25:52.218137Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_5",
+    "timestamp": "2026-02-07T11:25:52.234615Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_5",
+    "timestamp": "2026-02-07T11:25:52.234649Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_5",
+    "timestamp": "2026-02-07T11:25:52.234655Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_6",
+    "timestamp": "2026-02-07T11:25:52.245823Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_6",
+    "timestamp": "2026-02-07T11:25:52.245856Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_6",
+    "timestamp": "2026-02-07T11:25:52.245862Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_7",
+    "timestamp": "2026-02-07T11:25:52.265471Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_7",
+    "timestamp": "2026-02-07T11:25:52.265497Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_7",
+    "timestamp": "2026-02-07T11:25:52.265505Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_8",
+    "timestamp": "2026-02-07T11:25:52.281582Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_8",
+    "timestamp": "2026-02-07T11:25:52.281612Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_8",
+    "timestamp": "2026-02-07T11:25:52.281629Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_9",
+    "timestamp": "2026-02-07T11:25:52.296535Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_10",
+    "timestamp": "2026-02-07T11:25:52.310759Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_10",
+    "timestamp": "2026-02-07T11:25:52.310791Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_10",
+    "timestamp": "2026-02-07T11:25:52.310799Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_11",
+    "timestamp": "2026-02-07T11:25:52.323049Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_11",
+    "timestamp": "2026-02-07T11:25:52.323087Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_11",
+    "timestamp": "2026-02-07T11:25:52.323095Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_12",
+    "timestamp": "2026-02-07T11:25:52.334907Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_12",
+    "timestamp": "2026-02-07T11:25:52.334953Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_12",
+    "timestamp": "2026-02-07T11:25:52.334961Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_13",
+    "timestamp": "2026-02-07T11:25:52.346774Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_13",
+    "timestamp": "2026-02-07T11:25:52.346824Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_13",
+    "timestamp": "2026-02-07T11:25:52.346832Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_14",
+    "timestamp": "2026-02-07T11:25:52.362516Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_14",
+    "timestamp": "2026-02-07T11:25:52.362561Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_15",
+    "timestamp": "2026-02-07T11:25:52.374896Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_15",
+    "timestamp": "2026-02-07T11:25:52.374941Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_15",
+    "timestamp": "2026-02-07T11:25:52.374951Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_16",
+    "timestamp": "2026-02-07T11:25:52.393384Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_16",
+    "timestamp": "2026-02-07T11:25:52.393434Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_16",
+    "timestamp": "2026-02-07T11:25:52.393443Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_17",
+    "timestamp": "2026-02-07T11:25:52.404914Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_18",
+    "timestamp": "2026-02-07T11:25:52.419288Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_18",
+    "timestamp": "2026-02-07T11:25:52.419327Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_18",
+    "timestamp": "2026-02-07T11:25:52.419335Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_19",
+    "timestamp": "2026-02-07T11:25:52.438336Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_19",
+    "timestamp": "2026-02-07T11:25:52.438379Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_19",
+    "timestamp": "2026-02-07T11:25:52.438393Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_20",
+    "timestamp": "2026-02-07T11:25:52.458019Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_20",
+    "timestamp": "2026-02-07T11:25:52.458063Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_20",
+    "timestamp": "2026-02-07T11:25:52.458071Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_21",
+    "timestamp": "2026-02-07T11:25:52.471618Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_21",
+    "timestamp": "2026-02-07T11:25:52.471652Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_21",
+    "timestamp": "2026-02-07T11:25:52.471659Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_22",
+    "timestamp": "2026-02-07T11:25:52.487052Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_23",
+    "timestamp": "2026-02-07T11:25:52.504144Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_23",
+    "timestamp": "2026-02-07T11:25:52.504178Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_23",
+    "timestamp": "2026-02-07T11:25:52.504187Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_24",
+    "timestamp": "2026-02-07T11:25:52.518947Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_24",
+    "timestamp": "2026-02-07T11:25:52.518989Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_24",
+    "timestamp": "2026-02-07T11:25:52.518996Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_25",
+    "timestamp": "2026-02-07T11:25:52.535443Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_26",
+    "timestamp": "2026-02-07T11:25:52.551710Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_26",
+    "timestamp": "2026-02-07T11:25:52.551767Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_26",
+    "timestamp": "2026-02-07T11:25:52.551775Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_27",
+    "timestamp": "2026-02-07T11:25:52.567060Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_27",
+    "timestamp": "2026-02-07T11:25:52.567103Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_27",
+    "timestamp": "2026-02-07T11:25:52.567111Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_28",
+    "timestamp": "2026-02-07T11:25:52.585560Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_28",
+    "timestamp": "2026-02-07T11:25:52.585593Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_28",
+    "timestamp": "2026-02-07T11:25:52.585601Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_29",
+    "timestamp": "2026-02-07T11:25:52.597004Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_30",
+    "timestamp": "2026-02-07T11:25:52.614044Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_30",
+    "timestamp": "2026-02-07T11:25:52.614078Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_30",
+    "timestamp": "2026-02-07T11:25:52.614090Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_31",
+    "timestamp": "2026-02-07T11:25:52.631123Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_31",
+    "timestamp": "2026-02-07T11:25:52.631166Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_31",
+    "timestamp": "2026-02-07T11:25:52.631181Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_32",
+    "timestamp": "2026-02-07T11:25:52.649192Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_33",
+    "timestamp": "2026-02-07T11:25:52.671770Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_33",
+    "timestamp": "2026-02-07T11:25:52.671809Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_33",
+    "timestamp": "2026-02-07T11:25:52.671818Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_34",
+    "timestamp": "2026-02-07T11:25:52.683292Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_34",
+    "timestamp": "2026-02-07T11:25:52.683334Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_34",
+    "timestamp": "2026-02-07T11:25:52.683343Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_35",
+    "timestamp": "2026-02-07T11:25:52.702644Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_35",
+    "timestamp": "2026-02-07T11:25:52.702681Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_35",
+    "timestamp": "2026-02-07T11:25:52.702696Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_36",
+    "timestamp": "2026-02-07T11:25:52.718333Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_36",
+    "timestamp": "2026-02-07T11:25:52.718366Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "repeated_attempt",
+    "success": false
+  },
+  {
+    "user_id": "u_37",
+    "timestamp": "2026-02-07T11:25:52.738046Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_38",
+    "timestamp": "2026-02-07T11:25:52.756731Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_38",
+    "timestamp": "2026-02-07T11:25:52.756773Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_38",
+    "timestamp": "2026-02-07T11:25:52.756781Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_39",
+    "timestamp": "2026-02-07T11:25:52.775462Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_39",
+    "timestamp": "2026-02-07T11:25:52.775496Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_39",
+    "timestamp": "2026-02-07T11:25:52.775503Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_40",
+    "timestamp": "2026-02-07T11:25:52.787262Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_41",
+    "timestamp": "2026-02-07T11:25:52.800057Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_41",
+    "timestamp": "2026-02-07T11:25:52.800104Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_41",
+    "timestamp": "2026-02-07T11:25:52.800112Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_42",
+    "timestamp": "2026-02-07T11:25:52.820308Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_42",
+    "timestamp": "2026-02-07T11:25:52.820348Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_43",
+    "timestamp": "2026-02-07T11:25:52.836560Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_43",
+    "timestamp": "2026-02-07T11:25:52.836607Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_43",
+    "timestamp": "2026-02-07T11:25:52.836623Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_44",
+    "timestamp": "2026-02-07T11:25:52.850918Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_45",
+    "timestamp": "2026-02-07T11:25:52.862277Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_45",
+    "timestamp": "2026-02-07T11:25:52.862327Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_45",
+    "timestamp": "2026-02-07T11:25:52.862336Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_46",
+    "timestamp": "2026-02-07T11:25:52.879279Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_46",
+    "timestamp": "2026-02-07T11:25:52.879315Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_46",
+    "timestamp": "2026-02-07T11:25:52.879333Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_47",
+    "timestamp": "2026-02-07T11:25:52.891235Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_47",
+    "timestamp": "2026-02-07T11:25:52.891278Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_47",
+    "timestamp": "2026-02-07T11:25:52.891301Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_48",
+    "timestamp": "2026-02-07T11:25:52.911790Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_48",
+    "timestamp": "2026-02-07T11:25:52.911844Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_48",
+    "timestamp": "2026-02-07T11:25:52.911857Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_49",
+    "timestamp": "2026-02-07T11:25:52.927392Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_49",
+    "timestamp": "2026-02-07T11:25:52.927428Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_49",
+    "timestamp": "2026-02-07T11:25:52.927435Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_50",
+    "timestamp": "2026-02-07T11:25:52.939137Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_50",
+    "timestamp": "2026-02-07T11:25:52.939166Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_50",
+    "timestamp": "2026-02-07T11:25:52.939179Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_51",
+    "timestamp": "2026-02-07T11:25:52.959380Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_51",
+    "timestamp": "2026-02-07T11:25:52.959425Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "hesitation",
+    "success": false
+  },
+  {
+    "user_id": "u_52",
+    "timestamp": "2026-02-07T11:25:52.970945Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_52",
+    "timestamp": "2026-02-07T11:25:52.970988Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_52",
+    "timestamp": "2026-02-07T11:25:52.970998Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_53",
+    "timestamp": "2026-02-07T11:25:52.985357Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_54",
+    "timestamp": "2026-02-07T11:25:53.001186Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_54",
+    "timestamp": "2026-02-07T11:25:53.001221Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_54",
+    "timestamp": "2026-02-07T11:25:53.001230Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_55",
+    "timestamp": "2026-02-07T11:25:53.013055Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_55",
+    "timestamp": "2026-02-07T11:25:53.013095Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "rage_click",
+    "success": false
+  },
+  {
+    "user_id": "u_56",
+    "timestamp": "2026-02-07T11:25:53.029337Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_56",
+    "timestamp": "2026-02-07T11:25:53.029374Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_56",
+    "timestamp": "2026-02-07T11:25:53.029383Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_57",
+    "timestamp": "2026-02-07T11:25:53.045265Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_57",
+    "timestamp": "2026-02-07T11:25:53.045308Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_57",
+    "timestamp": "2026-02-07T11:25:53.045317Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_58",
+    "timestamp": "2026-02-07T11:25:53.065686Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_59",
+    "timestamp": "2026-02-07T11:25:53.079678Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_59",
+    "timestamp": "2026-02-07T11:25:53.079715Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_59",
+    "timestamp": "2026-02-07T11:25:53.079723Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_60",
+    "timestamp": "2026-02-07T11:25:53.098545Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_60",
+    "timestamp": "2026-02-07T11:25:53.098579Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_60",
+    "timestamp": "2026-02-07T11:25:53.098586Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_61",
+    "timestamp": "2026-02-07T11:25:53.115207Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_61",
+    "timestamp": "2026-02-07T11:25:53.115242Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_61",
+    "timestamp": "2026-02-07T11:25:53.115250Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_62",
+    "timestamp": "2026-02-07T11:25:53.129769Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_62",
+    "timestamp": "2026-02-07T11:25:53.129806Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_63",
+    "timestamp": "2026-02-07T11:25:53.148967Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_63",
+    "timestamp": "2026-02-07T11:25:53.149004Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_63",
+    "timestamp": "2026-02-07T11:25:53.149021Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_64",
+    "timestamp": "2026-02-07T11:25:53.168899Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_65",
+    "timestamp": "2026-02-07T11:25:53.188258Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_65",
+    "timestamp": "2026-02-07T11:25:53.188300Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_65",
+    "timestamp": "2026-02-07T11:25:53.188310Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_66",
+    "timestamp": "2026-02-07T11:25:53.204657Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_66",
+    "timestamp": "2026-02-07T11:25:53.204722Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_66",
+    "timestamp": "2026-02-07T11:25:53.204730Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_67",
+    "timestamp": "2026-02-07T11:25:53.222329Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_67",
+    "timestamp": "2026-02-07T11:25:53.222372Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_67",
+    "timestamp": "2026-02-07T11:25:53.222378Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_68",
+    "timestamp": "2026-02-07T11:25:53.238994Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_68",
+    "timestamp": "2026-02-07T11:25:53.239027Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_68",
+    "timestamp": "2026-02-07T11:25:53.239032Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_69",
+    "timestamp": "2026-02-07T11:25:53.258692Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_69",
+    "timestamp": "2026-02-07T11:25:53.258729Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_70",
+    "timestamp": "2026-02-07T11:25:53.272181Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_70",
+    "timestamp": "2026-02-07T11:25:53.272222Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_70",
+    "timestamp": "2026-02-07T11:25:53.272229Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_71",
+    "timestamp": "2026-02-07T11:25:53.292236Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_71",
+    "timestamp": "2026-02-07T11:25:53.292270Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_71",
+    "timestamp": "2026-02-07T11:25:53.292278Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_72",
+    "timestamp": "2026-02-07T11:25:53.304812Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_72",
+    "timestamp": "2026-02-07T11:25:53.304851Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_72",
+    "timestamp": "2026-02-07T11:25:53.304861Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_73",
+    "timestamp": "2026-02-07T11:25:53.322241Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_73",
+    "timestamp": "2026-02-07T11:25:53.322337Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_73",
+    "timestamp": "2026-02-07T11:25:53.322363Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_74",
+    "timestamp": "2026-02-07T11:25:53.342317Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_74",
+    "timestamp": "2026-02-07T11:25:53.342354Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_74",
+    "timestamp": "2026-02-07T11:25:53.342360Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_75",
+    "timestamp": "2026-02-07T11:25:53.358865Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_75",
+    "timestamp": "2026-02-07T11:25:53.358902Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_75",
+    "timestamp": "2026-02-07T11:25:53.358908Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_76",
+    "timestamp": "2026-02-07T11:25:53.378535Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_76",
+    "timestamp": "2026-02-07T11:25:53.378567Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "repeated_attempt",
+    "success": false
+  },
+  {
+    "user_id": "u_77",
+    "timestamp": "2026-02-07T11:25:53.391007Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_77",
+    "timestamp": "2026-02-07T11:25:53.391045Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_77",
+    "timestamp": "2026-02-07T11:25:53.391054Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_78",
+    "timestamp": "2026-02-07T11:25:53.408871Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_79",
+    "timestamp": "2026-02-07T11:25:53.428091Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_79",
+    "timestamp": "2026-02-07T11:25:53.428122Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_79",
+    "timestamp": "2026-02-07T11:25:53.428137Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_80",
+    "timestamp": "2026-02-07T11:25:53.447969Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_80",
+    "timestamp": "2026-02-07T11:25:53.448000Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_80",
+    "timestamp": "2026-02-07T11:25:53.448006Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_81",
+    "timestamp": "2026-02-07T11:25:53.467281Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_81",
+    "timestamp": "2026-02-07T11:25:53.467319Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "hesitation",
+    "success": false
+  },
+  {
+    "user_id": "u_82",
+    "timestamp": "2026-02-07T11:25:53.480187Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_82",
+    "timestamp": "2026-02-07T11:25:53.480225Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_82",
+    "timestamp": "2026-02-07T11:25:53.480232Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_83",
+    "timestamp": "2026-02-07T11:25:53.496108Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_83",
+    "timestamp": "2026-02-07T11:25:53.496137Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_83",
+    "timestamp": "2026-02-07T11:25:53.496143Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_84",
+    "timestamp": "2026-02-07T11:25:53.508359Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_84",
+    "timestamp": "2026-02-07T11:25:53.508421Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_84",
+    "timestamp": "2026-02-07T11:25:53.508435Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_85",
+    "timestamp": "2026-02-07T11:25:53.527913Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_85",
+    "timestamp": "2026-02-07T11:25:53.527952Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "hesitation",
+    "success": false
+  },
+  {
+    "user_id": "u_86",
+    "timestamp": "2026-02-07T11:25:53.542305Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_86",
+    "timestamp": "2026-02-07T11:25:53.542353Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_86",
+    "timestamp": "2026-02-07T11:25:53.542363Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_87",
+    "timestamp": "2026-02-07T11:25:53.555598Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_87",
+    "timestamp": "2026-02-07T11:25:53.555628Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_87",
+    "timestamp": "2026-02-07T11:25:53.555633Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_88",
+    "timestamp": "2026-02-07T11:25:53.566797Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_88",
+    "timestamp": "2026-02-07T11:25:53.566832Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_88",
+    "timestamp": "2026-02-07T11:25:53.566837Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_89",
+    "timestamp": "2026-02-07T11:25:53.579161Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_89",
+    "timestamp": "2026-02-07T11:25:53.579263Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_89",
+    "timestamp": "2026-02-07T11:25:53.579286Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_90",
+    "timestamp": "2026-02-07T11:25:53.597589Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_90",
+    "timestamp": "2026-02-07T11:25:53.597619Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_90",
+    "timestamp": "2026-02-07T11:25:53.597625Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_91",
+    "timestamp": "2026-02-07T11:25:53.609827Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_91",
+    "timestamp": "2026-02-07T11:25:53.609866Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "repeated_attempt",
+    "success": false
+  },
+  {
+    "user_id": "u_92",
+    "timestamp": "2026-02-07T11:25:53.629929Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_92",
+    "timestamp": "2026-02-07T11:25:53.629964Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "hesitation",
+    "success": false
+  },
+  {
+    "user_id": "u_93",
+    "timestamp": "2026-02-07T11:25:53.646957Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_93",
+    "timestamp": "2026-02-07T11:25:53.646990Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "hesitation",
+    "success": false
+  },
+  {
+    "user_id": "u_94",
+    "timestamp": "2026-02-07T11:25:53.658187Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_94",
+    "timestamp": "2026-02-07T11:25:53.658215Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_94",
+    "timestamp": "2026-02-07T11:25:53.658221Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_95",
+    "timestamp": "2026-02-07T11:25:53.669004Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_95",
+    "timestamp": "2026-02-07T11:25:53.669043Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_95",
+    "timestamp": "2026-02-07T11:25:53.669053Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_96",
+    "timestamp": "2026-02-07T11:25:53.680764Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_96",
+    "timestamp": "2026-02-07T11:25:53.680831Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_96",
+    "timestamp": "2026-02-07T11:25:53.680838Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_97",
+    "timestamp": "2026-02-07T11:25:53.699424Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_97",
+    "timestamp": "2026-02-07T11:25:53.699463Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_97",
+    "timestamp": "2026-02-07T11:25:53.699473Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_98",
+    "timestamp": "2026-02-07T11:25:53.716524Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_98",
+    "timestamp": "2026-02-07T11:25:53.716554Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_98",
+    "timestamp": "2026-02-07T11:25:53.716560Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_99",
+    "timestamp": "2026-02-07T11:25:53.731402Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_99",
+    "timestamp": "2026-02-07T11:25:53.731500Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_99",
+    "timestamp": "2026-02-07T11:25:53.731524Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_100",
+    "timestamp": "2026-02-07T11:25:53.748349Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_101",
+    "timestamp": "2026-02-07T11:25:53.760800Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_101",
+    "timestamp": "2026-02-07T11:25:53.760831Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_101",
+    "timestamp": "2026-02-07T11:25:53.760839Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_102",
+    "timestamp": "2026-02-07T11:25:53.774046Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_102",
+    "timestamp": "2026-02-07T11:25:53.774076Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_102",
+    "timestamp": "2026-02-07T11:25:53.774080Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_103",
+    "timestamp": "2026-02-07T11:25:53.793197Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_103",
+    "timestamp": "2026-02-07T11:25:53.793233Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_103",
+    "timestamp": "2026-02-07T11:25:53.793237Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_104",
+    "timestamp": "2026-02-07T11:25:53.810839Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_105",
+    "timestamp": "2026-02-07T11:25:53.827372Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_106",
+    "timestamp": "2026-02-07T11:25:53.842216Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_106",
+    "timestamp": "2026-02-07T11:25:53.842363Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_106",
+    "timestamp": "2026-02-07T11:25:53.842369Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_107",
+    "timestamp": "2026-02-07T11:25:53.856163Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_107",
+    "timestamp": "2026-02-07T11:25:53.856200Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_107",
+    "timestamp": "2026-02-07T11:25:53.856209Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_108",
+    "timestamp": "2026-02-07T11:25:53.867911Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_108",
+    "timestamp": "2026-02-07T11:25:53.867951Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_108",
+    "timestamp": "2026-02-07T11:25:53.867958Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_109",
+    "timestamp": "2026-02-07T11:25:53.882152Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_109",
+    "timestamp": "2026-02-07T11:25:53.882240Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_109",
+    "timestamp": "2026-02-07T11:25:53.882250Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_110",
+    "timestamp": "2026-02-07T11:25:53.901226Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_110",
+    "timestamp": "2026-02-07T11:25:53.901257Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_110",
+    "timestamp": "2026-02-07T11:25:53.901263Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_111",
+    "timestamp": "2026-02-07T11:25:53.919334Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_111",
+    "timestamp": "2026-02-07T11:25:53.919375Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_111",
+    "timestamp": "2026-02-07T11:25:53.919383Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_112",
+    "timestamp": "2026-02-07T11:25:53.938094Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_112",
+    "timestamp": "2026-02-07T11:25:53.938131Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_112",
+    "timestamp": "2026-02-07T11:25:53.938162Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_113",
+    "timestamp": "2026-02-07T11:25:53.951338Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_114",
+    "timestamp": "2026-02-07T11:25:53.971070Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_114",
+    "timestamp": "2026-02-07T11:25:53.971109Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_114",
+    "timestamp": "2026-02-07T11:25:53.971119Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_115",
+    "timestamp": "2026-02-07T11:25:53.987935Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_115",
+    "timestamp": "2026-02-07T11:25:53.987974Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_115",
+    "timestamp": "2026-02-07T11:25:53.987980Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_116",
+    "timestamp": "2026-02-07T11:25:54.007095Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_116",
+    "timestamp": "2026-02-07T11:25:54.007131Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "rage_click",
+    "success": false
+  },
+  {
+    "user_id": "u_117",
+    "timestamp": "2026-02-07T11:25:54.018480Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_117",
+    "timestamp": "2026-02-07T11:25:54.018539Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_117",
+    "timestamp": "2026-02-07T11:25:54.018563Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_118",
+    "timestamp": "2026-02-07T11:25:54.029960Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_118",
+    "timestamp": "2026-02-07T11:25:54.029994Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_118",
+    "timestamp": "2026-02-07T11:25:54.030002Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_119",
+    "timestamp": "2026-02-07T11:25:54.046293Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_119",
+    "timestamp": "2026-02-07T11:25:54.046325Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_120",
+    "timestamp": "2026-02-07T11:25:54.058388Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_120",
+    "timestamp": "2026-02-07T11:25:54.058416Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "hesitation",
+    "success": false
+  },
+  {
+    "user_id": "u_121",
+    "timestamp": "2026-02-07T11:25:54.073145Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_121",
+    "timestamp": "2026-02-07T11:25:54.073186Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_121",
+    "timestamp": "2026-02-07T11:25:54.073198Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_122",
+    "timestamp": "2026-02-07T11:25:54.090698Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_122",
+    "timestamp": "2026-02-07T11:25:54.090738Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_122",
+    "timestamp": "2026-02-07T11:25:54.090751Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_123",
+    "timestamp": "2026-02-07T11:25:54.102011Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_123",
+    "timestamp": "2026-02-07T11:25:54.102052Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_123",
+    "timestamp": "2026-02-07T11:25:54.102061Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_124",
+    "timestamp": "2026-02-07T11:25:54.116220Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_124",
+    "timestamp": "2026-02-07T11:25:54.116248Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_124",
+    "timestamp": "2026-02-07T11:25:54.116253Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_125",
+    "timestamp": "2026-02-07T11:25:54.129236Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_125",
+    "timestamp": "2026-02-07T11:25:54.129291Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_126",
+    "timestamp": "2026-02-07T11:25:54.147924Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_126",
+    "timestamp": "2026-02-07T11:25:54.147952Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_127",
+    "timestamp": "2026-02-07T11:25:54.162033Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_127",
+    "timestamp": "2026-02-07T11:25:54.162063Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_127",
+    "timestamp": "2026-02-07T11:25:54.162068Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_128",
+    "timestamp": "2026-02-07T11:25:54.181237Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_128",
+    "timestamp": "2026-02-07T11:25:54.181275Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_128",
+    "timestamp": "2026-02-07T11:25:54.181284Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_129",
+    "timestamp": "2026-02-07T11:25:54.193348Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_130",
+    "timestamp": "2026-02-07T11:25:54.203842Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_130",
+    "timestamp": "2026-02-07T11:25:54.203874Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_130",
+    "timestamp": "2026-02-07T11:25:54.203884Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_131",
+    "timestamp": "2026-02-07T11:25:54.216970Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_131",
+    "timestamp": "2026-02-07T11:25:54.216997Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_131",
+    "timestamp": "2026-02-07T11:25:54.217003Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_132",
+    "timestamp": "2026-02-07T11:25:54.233619Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_132",
+    "timestamp": "2026-02-07T11:25:54.233651Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_132",
+    "timestamp": "2026-02-07T11:25:54.233657Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_133",
+    "timestamp": "2026-02-07T11:25:54.252101Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_133",
+    "timestamp": "2026-02-07T11:25:54.252142Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_134",
+    "timestamp": "2026-02-07T11:25:54.264202Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_134",
+    "timestamp": "2026-02-07T11:25:54.264235Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_134",
+    "timestamp": "2026-02-07T11:25:54.264242Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_135",
+    "timestamp": "2026-02-07T11:25:54.279681Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_135",
+    "timestamp": "2026-02-07T11:25:54.279714Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_135",
+    "timestamp": "2026-02-07T11:25:54.279721Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_136",
+    "timestamp": "2026-02-07T11:25:54.290447Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_136",
+    "timestamp": "2026-02-07T11:25:54.290477Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_136",
+    "timestamp": "2026-02-07T11:25:54.290483Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_137",
+    "timestamp": "2026-02-07T11:25:54.305121Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_138",
+    "timestamp": "2026-02-07T11:25:54.323624Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_138",
+    "timestamp": "2026-02-07T11:25:54.323676Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_138",
+    "timestamp": "2026-02-07T11:25:54.323684Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_139",
+    "timestamp": "2026-02-07T11:25:54.338535Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_140",
+    "timestamp": "2026-02-07T11:25:54.352659Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_140",
+    "timestamp": "2026-02-07T11:25:54.352698Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_140",
+    "timestamp": "2026-02-07T11:25:54.352706Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_141",
+    "timestamp": "2026-02-07T11:25:54.365876Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_141",
+    "timestamp": "2026-02-07T11:25:54.365908Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_141",
+    "timestamp": "2026-02-07T11:25:54.365914Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_142",
+    "timestamp": "2026-02-07T11:25:54.376789Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_142",
+    "timestamp": "2026-02-07T11:25:54.376824Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_142",
+    "timestamp": "2026-02-07T11:25:54.376832Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_143",
+    "timestamp": "2026-02-07T11:25:54.393218Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_144",
+    "timestamp": "2026-02-07T11:25:54.404270Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_144",
+    "timestamp": "2026-02-07T11:25:54.404315Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_144",
+    "timestamp": "2026-02-07T11:25:54.404326Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_145",
+    "timestamp": "2026-02-07T11:25:54.421078Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_145",
+    "timestamp": "2026-02-07T11:25:54.421117Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_145",
+    "timestamp": "2026-02-07T11:25:54.421146Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_146",
+    "timestamp": "2026-02-07T11:25:54.441432Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_146",
+    "timestamp": "2026-02-07T11:25:54.441471Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_146",
+    "timestamp": "2026-02-07T11:25:54.441479Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_147",
+    "timestamp": "2026-02-07T11:25:54.457282Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_148",
+    "timestamp": "2026-02-07T11:25:54.471924Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_149",
+    "timestamp": "2026-02-07T11:25:54.483137Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_150",
+    "timestamp": "2026-02-07T11:25:54.503395Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_150",
+    "timestamp": "2026-02-07T11:25:54.503439Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_150",
+    "timestamp": "2026-02-07T11:25:54.503449Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_151",
+    "timestamp": "2026-02-07T11:25:54.523130Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_152",
+    "timestamp": "2026-02-07T11:25:54.534452Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_152",
+    "timestamp": "2026-02-07T11:25:54.534488Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_152",
+    "timestamp": "2026-02-07T11:25:54.534498Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_153",
+    "timestamp": "2026-02-07T11:25:54.549991Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_154",
+    "timestamp": "2026-02-07T11:25:54.564199Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_154",
+    "timestamp": "2026-02-07T11:25:54.564229Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_154",
+    "timestamp": "2026-02-07T11:25:54.564235Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_155",
+    "timestamp": "2026-02-07T11:25:54.581358Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_155",
+    "timestamp": "2026-02-07T11:25:54.581395Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_155",
+    "timestamp": "2026-02-07T11:25:54.581404Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_156",
+    "timestamp": "2026-02-07T11:25:54.594615Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_156",
+    "timestamp": "2026-02-07T11:25:54.594648Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_156",
+    "timestamp": "2026-02-07T11:25:54.594656Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_157",
+    "timestamp": "2026-02-07T11:25:54.606944Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_157",
+    "timestamp": "2026-02-07T11:25:54.606982Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_157",
+    "timestamp": "2026-02-07T11:25:54.606992Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_158",
+    "timestamp": "2026-02-07T11:25:54.626869Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_158",
+    "timestamp": "2026-02-07T11:25:54.626910Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_158",
+    "timestamp": "2026-02-07T11:25:54.626919Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_159",
+    "timestamp": "2026-02-07T11:25:54.637731Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_159",
+    "timestamp": "2026-02-07T11:25:54.637765Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_159",
+    "timestamp": "2026-02-07T11:25:54.637773Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_160",
+    "timestamp": "2026-02-07T11:25:54.654942Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_160",
+    "timestamp": "2026-02-07T11:25:54.654977Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_160",
+    "timestamp": "2026-02-07T11:25:54.654985Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_161",
+    "timestamp": "2026-02-07T11:25:54.670270Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_162",
+    "timestamp": "2026-02-07T11:25:54.690397Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_163",
+    "timestamp": "2026-02-07T11:25:54.707491Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_163",
+    "timestamp": "2026-02-07T11:25:54.707520Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_163",
+    "timestamp": "2026-02-07T11:25:54.707532Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_164",
+    "timestamp": "2026-02-07T11:25:54.718553Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_164",
+    "timestamp": "2026-02-07T11:25:54.718684Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "rage_click",
+    "success": false
+  },
+  {
+    "user_id": "u_165",
+    "timestamp": "2026-02-07T11:25:54.734574Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_166",
+    "timestamp": "2026-02-07T11:25:54.745343Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_166",
+    "timestamp": "2026-02-07T11:25:54.745401Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_166",
+    "timestamp": "2026-02-07T11:25:54.745409Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_167",
+    "timestamp": "2026-02-07T11:25:54.763522Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_168",
+    "timestamp": "2026-02-07T11:25:54.775874Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_168",
+    "timestamp": "2026-02-07T11:25:54.775912Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "repeated_attempt",
+    "success": false
+  },
+  {
+    "user_id": "u_169",
+    "timestamp": "2026-02-07T11:25:54.792364Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_169",
+    "timestamp": "2026-02-07T11:25:54.792433Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "repeated_attempt",
+    "success": false
+  },
+  {
+    "user_id": "u_170",
+    "timestamp": "2026-02-07T11:25:54.807352Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_170",
+    "timestamp": "2026-02-07T11:25:54.807460Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_171",
+    "timestamp": "2026-02-07T11:25:54.823251Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_172",
+    "timestamp": "2026-02-07T11:25:54.838145Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_172",
+    "timestamp": "2026-02-07T11:25:54.838182Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "hesitation",
+    "success": false
+  },
+  {
+    "user_id": "u_173",
+    "timestamp": "2026-02-07T11:25:54.848746Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_173",
+    "timestamp": "2026-02-07T11:25:54.848791Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "repeated_attempt",
+    "success": false
+  },
+  {
+    "user_id": "u_174",
+    "timestamp": "2026-02-07T11:25:54.862548Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_174",
+    "timestamp": "2026-02-07T11:25:54.862584Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_174",
+    "timestamp": "2026-02-07T11:25:54.862593Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_175",
+    "timestamp": "2026-02-07T11:25:54.881249Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_175",
+    "timestamp": "2026-02-07T11:25:54.881279Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_175",
+    "timestamp": "2026-02-07T11:25:54.881284Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_176",
+    "timestamp": "2026-02-07T11:25:54.892189Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_176",
+    "timestamp": "2026-02-07T11:25:54.892219Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_176",
+    "timestamp": "2026-02-07T11:25:54.892228Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_177",
+    "timestamp": "2026-02-07T11:25:54.904806Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_177",
+    "timestamp": "2026-02-07T11:25:54.904843Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "hesitation",
+    "success": false
+  },
+  {
+    "user_id": "u_178",
+    "timestamp": "2026-02-07T11:25:54.922892Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_178",
+    "timestamp": "2026-02-07T11:25:54.922926Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_178",
+    "timestamp": "2026-02-07T11:25:54.922934Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_179",
+    "timestamp": "2026-02-07T11:25:54.942602Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_179",
+    "timestamp": "2026-02-07T11:25:54.942635Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_179",
+    "timestamp": "2026-02-07T11:25:54.942641Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_180",
+    "timestamp": "2026-02-07T11:25:54.959716Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_180",
+    "timestamp": "2026-02-07T11:25:54.959744Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_180",
+    "timestamp": "2026-02-07T11:25:54.959749Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_181",
+    "timestamp": "2026-02-07T11:25:54.972595Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_181",
+    "timestamp": "2026-02-07T11:25:54.972634Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_182",
+    "timestamp": "2026-02-07T11:25:54.991049Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_182",
+    "timestamp": "2026-02-07T11:25:54.991082Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_182",
+    "timestamp": "2026-02-07T11:25:54.991099Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_183",
+    "timestamp": "2026-02-07T11:25:55.009749Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_183",
+    "timestamp": "2026-02-07T11:25:55.009786Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_183",
+    "timestamp": "2026-02-07T11:25:55.009874Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_184",
+    "timestamp": "2026-02-07T11:25:55.022603Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_184",
+    "timestamp": "2026-02-07T11:25:55.022639Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_184",
+    "timestamp": "2026-02-07T11:25:55.022652Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_185",
+    "timestamp": "2026-02-07T11:25:55.034836Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_185",
+    "timestamp": "2026-02-07T11:25:55.034860Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_186",
+    "timestamp": "2026-02-07T11:25:55.053181Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_186",
+    "timestamp": "2026-02-07T11:25:55.053219Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_186",
+    "timestamp": "2026-02-07T11:25:55.053228Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_187",
+    "timestamp": "2026-02-07T11:25:55.066902Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_187",
+    "timestamp": "2026-02-07T11:25:55.066934Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_187",
+    "timestamp": "2026-02-07T11:25:55.066950Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_188",
+    "timestamp": "2026-02-07T11:25:55.079566Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_188",
+    "timestamp": "2026-02-07T11:25:55.079613Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_188",
+    "timestamp": "2026-02-07T11:25:55.079620Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_189",
+    "timestamp": "2026-02-07T11:25:55.099363Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_189",
+    "timestamp": "2026-02-07T11:25:55.099411Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_189",
+    "timestamp": "2026-02-07T11:25:55.099420Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_190",
+    "timestamp": "2026-02-07T11:25:55.110730Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_190",
+    "timestamp": "2026-02-07T11:25:55.110765Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_190",
+    "timestamp": "2026-02-07T11:25:55.110774Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_191",
+    "timestamp": "2026-02-07T11:25:55.128205Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_191",
+    "timestamp": "2026-02-07T11:25:55.128254Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_191",
+    "timestamp": "2026-02-07T11:25:55.128266Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_192",
+    "timestamp": "2026-02-07T11:25:55.139665Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_192",
+    "timestamp": "2026-02-07T11:25:55.139710Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_192",
+    "timestamp": "2026-02-07T11:25:55.139727Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_193",
+    "timestamp": "2026-02-07T11:25:55.150473Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_193",
+    "timestamp": "2026-02-07T11:25:55.150518Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_193",
+    "timestamp": "2026-02-07T11:25:55.150527Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_194",
+    "timestamp": "2026-02-07T11:25:55.167266Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_194",
+    "timestamp": "2026-02-07T11:25:55.167300Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_194",
+    "timestamp": "2026-02-07T11:25:55.167314Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_195",
+    "timestamp": "2026-02-07T11:25:55.182388Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_195",
+    "timestamp": "2026-02-07T11:25:55.182426Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "rage_click",
+    "success": false
+  },
+  {
+    "user_id": "u_196",
+    "timestamp": "2026-02-07T11:25:55.193370Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_196",
+    "timestamp": "2026-02-07T11:25:55.193403Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_196",
+    "timestamp": "2026-02-07T11:25:55.193412Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_197",
+    "timestamp": "2026-02-07T11:25:55.209284Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_197",
+    "timestamp": "2026-02-07T11:25:55.209314Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_197",
+    "timestamp": "2026-02-07T11:25:55.209320Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_198",
+    "timestamp": "2026-02-07T11:25:55.221442Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_198",
+    "timestamp": "2026-02-07T11:25:55.221486Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_198",
+    "timestamp": "2026-02-07T11:25:55.221493Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_199",
+    "timestamp": "2026-02-07T11:25:55.237419Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_199",
+    "timestamp": "2026-02-07T11:25:55.237464Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_199",
+    "timestamp": "2026-02-07T11:25:55.237473Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_200",
+    "timestamp": "2026-02-07T11:25:55.251290Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_200",
+    "timestamp": "2026-02-07T11:25:55.251518Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "repeated_attempt",
+    "success": false
+  },
+  {
+    "user_id": "u_201",
+    "timestamp": "2026-02-07T11:25:55.269492Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_201",
+    "timestamp": "2026-02-07T11:25:55.269532Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_201",
+    "timestamp": "2026-02-07T11:25:55.269548Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_202",
+    "timestamp": "2026-02-07T11:25:55.288384Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_202",
+    "timestamp": "2026-02-07T11:25:55.288418Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_202",
+    "timestamp": "2026-02-07T11:25:55.288431Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_203",
+    "timestamp": "2026-02-07T11:25:55.303828Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_203",
+    "timestamp": "2026-02-07T11:25:55.304279Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_203",
+    "timestamp": "2026-02-07T11:25:55.304335Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_204",
+    "timestamp": "2026-02-07T11:25:55.315884Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_204",
+    "timestamp": "2026-02-07T11:25:55.315969Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_205",
+    "timestamp": "2026-02-07T11:25:55.329677Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_206",
+    "timestamp": "2026-02-07T11:25:55.350348Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_206",
+    "timestamp": "2026-02-07T11:25:55.350382Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_206",
+    "timestamp": "2026-02-07T11:25:55.350390Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_207",
+    "timestamp": "2026-02-07T11:25:55.371301Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_207",
+    "timestamp": "2026-02-07T11:25:55.371333Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_207",
+    "timestamp": "2026-02-07T11:25:55.371340Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_208",
+    "timestamp": "2026-02-07T11:25:55.382073Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_209",
+    "timestamp": "2026-02-07T11:25:55.392935Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_210",
+    "timestamp": "2026-02-07T11:25:55.407642Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_210",
+    "timestamp": "2026-02-07T11:25:55.407678Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_210",
+    "timestamp": "2026-02-07T11:25:55.407704Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_211",
+    "timestamp": "2026-02-07T11:25:55.422814Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_211",
+    "timestamp": "2026-02-07T11:25:55.422849Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_211",
+    "timestamp": "2026-02-07T11:25:55.422857Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_212",
+    "timestamp": "2026-02-07T11:25:55.437646Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_212",
+    "timestamp": "2026-02-07T11:25:55.437682Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_212",
+    "timestamp": "2026-02-07T11:25:55.437695Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_213",
+    "timestamp": "2026-02-07T11:25:55.452943Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_213",
+    "timestamp": "2026-02-07T11:25:55.452979Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_213",
+    "timestamp": "2026-02-07T11:25:55.452989Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_214",
+    "timestamp": "2026-02-07T11:25:55.465232Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_214",
+    "timestamp": "2026-02-07T11:25:55.465266Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "hesitation",
+    "success": false
+  },
+  {
+    "user_id": "u_215",
+    "timestamp": "2026-02-07T11:25:55.479564Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_215",
+    "timestamp": "2026-02-07T11:25:55.479592Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_215",
+    "timestamp": "2026-02-07T11:25:55.479603Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_216",
+    "timestamp": "2026-02-07T11:25:55.497972Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_216",
+    "timestamp": "2026-02-07T11:25:55.498006Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "repeated_attempt",
+    "success": false
+  },
+  {
+    "user_id": "u_217",
+    "timestamp": "2026-02-07T11:25:55.514966Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_217",
+    "timestamp": "2026-02-07T11:25:55.515002Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_217",
+    "timestamp": "2026-02-07T11:25:55.515011Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_218",
+    "timestamp": "2026-02-07T11:25:55.531734Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_218",
+    "timestamp": "2026-02-07T11:25:55.531770Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_218",
+    "timestamp": "2026-02-07T11:25:55.531780Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_219",
+    "timestamp": "2026-02-07T11:25:55.552468Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_220",
+    "timestamp": "2026-02-07T11:25:55.565407Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_221",
+    "timestamp": "2026-02-07T11:25:55.578745Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_221",
+    "timestamp": "2026-02-07T11:25:55.578778Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_221",
+    "timestamp": "2026-02-07T11:25:55.578786Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_222",
+    "timestamp": "2026-02-07T11:25:55.594057Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_223",
+    "timestamp": "2026-02-07T11:25:55.604831Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_223",
+    "timestamp": "2026-02-07T11:25:55.604861Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_223",
+    "timestamp": "2026-02-07T11:25:55.604869Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_224",
+    "timestamp": "2026-02-07T11:25:55.624561Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_224",
+    "timestamp": "2026-02-07T11:25:55.624598Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_224",
+    "timestamp": "2026-02-07T11:25:55.624607Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_225",
+    "timestamp": "2026-02-07T11:25:55.641556Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_225",
+    "timestamp": "2026-02-07T11:25:55.641593Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_225",
+    "timestamp": "2026-02-07T11:25:55.641606Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_226",
+    "timestamp": "2026-02-07T11:25:55.661671Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_226",
+    "timestamp": "2026-02-07T11:25:55.661739Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_226",
+    "timestamp": "2026-02-07T11:25:55.661750Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_227",
+    "timestamp": "2026-02-07T11:25:55.681715Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_227",
+    "timestamp": "2026-02-07T11:25:55.681758Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_228",
+    "timestamp": "2026-02-07T11:25:55.693801Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_228",
+    "timestamp": "2026-02-07T11:25:55.693850Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_228",
+    "timestamp": "2026-02-07T11:25:55.693860Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_229",
+    "timestamp": "2026-02-07T11:25:55.710317Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_229",
+    "timestamp": "2026-02-07T11:25:55.710379Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_229",
+    "timestamp": "2026-02-07T11:25:55.710399Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_230",
+    "timestamp": "2026-02-07T11:25:55.724503Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_230",
+    "timestamp": "2026-02-07T11:25:55.724540Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_230",
+    "timestamp": "2026-02-07T11:25:55.724548Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_231",
+    "timestamp": "2026-02-07T11:25:55.741157Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_231",
+    "timestamp": "2026-02-07T11:25:55.741214Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_232",
+    "timestamp": "2026-02-07T11:25:55.752012Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_232",
+    "timestamp": "2026-02-07T11:25:55.752051Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_232",
+    "timestamp": "2026-02-07T11:25:55.752061Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_233",
+    "timestamp": "2026-02-07T11:25:55.767952Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_234",
+    "timestamp": "2026-02-07T11:25:55.778818Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_234",
+    "timestamp": "2026-02-07T11:25:55.778878Z",
+    "region": "LATAM",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "repeated_attempt",
+    "success": false
+  },
+  {
+    "user_id": "u_235",
+    "timestamp": "2026-02-07T11:25:55.790209Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_236",
+    "timestamp": "2026-02-07T11:25:55.812160Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_236",
+    "timestamp": "2026-02-07T11:25:55.812198Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_237",
+    "timestamp": "2026-02-07T11:25:55.826055Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_237",
+    "timestamp": "2026-02-07T11:25:55.826089Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_237",
+    "timestamp": "2026-02-07T11:25:55.826127Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_238",
+    "timestamp": "2026-02-07T11:25:55.843063Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_238",
+    "timestamp": "2026-02-07T11:25:55.843104Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_238",
+    "timestamp": "2026-02-07T11:25:55.843113Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_239",
+    "timestamp": "2026-02-07T11:25:55.861486Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_239",
+    "timestamp": "2026-02-07T11:25:55.861525Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_239",
+    "timestamp": "2026-02-07T11:25:55.861535Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_240",
+    "timestamp": "2026-02-07T11:25:55.874590Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_240",
+    "timestamp": "2026-02-07T11:25:55.874627Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_240",
+    "timestamp": "2026-02-07T11:25:55.874636Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_241",
+    "timestamp": "2026-02-07T11:25:55.894419Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_242",
+    "timestamp": "2026-02-07T11:25:55.908818Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_242",
+    "timestamp": "2026-02-07T11:25:55.908864Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_242",
+    "timestamp": "2026-02-07T11:25:55.908906Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_243",
+    "timestamp": "2026-02-07T11:25:55.924413Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_243",
+    "timestamp": "2026-02-07T11:25:55.924448Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_243",
+    "timestamp": "2026-02-07T11:25:55.924457Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_244",
+    "timestamp": "2026-02-07T11:25:55.938291Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_244",
+    "timestamp": "2026-02-07T11:25:55.938328Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_244",
+    "timestamp": "2026-02-07T11:25:55.938337Z",
+    "region": "EU",
+    "device": "mobile",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_245",
+    "timestamp": "2026-02-07T11:25:55.951401Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_245",
+    "timestamp": "2026-02-07T11:25:55.951439Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_246",
+    "timestamp": "2026-02-07T11:25:55.963394Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_246",
+    "timestamp": "2026-02-07T11:25:55.963443Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_246",
+    "timestamp": "2026-02-07T11:25:55.963452Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_247",
+    "timestamp": "2026-02-07T11:25:55.983578Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_247",
+    "timestamp": "2026-02-07T11:25:55.983616Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_247",
+    "timestamp": "2026-02-07T11:25:55.983625Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": false
+  },
+  {
+    "user_id": "u_248",
+    "timestamp": "2026-02-07T11:25:55.997075Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_248",
+    "timestamp": "2026-02-07T11:25:55.997124Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_248",
+    "timestamp": "2026-02-07T11:25:55.997132Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_249",
+    "timestamp": "2026-02-07T11:25:56.014013Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_249",
+    "timestamp": "2026-02-07T11:25:56.014051Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_payment_selection",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_249",
+    "timestamp": "2026-02-07T11:25:56.014086Z",
+    "region": "EU",
+    "device": "desktop",
+    "funnel_step": "deposit_success",
+    "behavior_signal": "none",
+    "success": true
+  },
+  {
+    "user_id": "u_250",
+    "timestamp": "2026-02-07T11:25:56.027250Z",
+    "region": "LATAM",
+    "device": "desktop",
+    "funnel_step": "signup",
+    "behavior_signal": "none",
+    "success": false
+  }
+]

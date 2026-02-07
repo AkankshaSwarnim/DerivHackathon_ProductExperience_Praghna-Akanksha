@@ -1,0 +1,5 @@
+{
+  "name": "UX Insight Agent - Trading Platform Intelligence",
+  "description": "An autonomous internal dashboard that detects funnel drop-offs, diagnoses behavioral root causes using AI, and validates UX fix impact through an immutable success-lock workflow.",
+  "requestFramePermissions": []
+}
